@@ -1,8 +1,7 @@
 import React from 'react';
 import { Typography, Box, Paper, Fade, NoSsr } from '@mui/material';
-import { ThemeProvider } from '@mui/styles';
+import { ThemeProvider } from '@emotion/react';
 import { createTheme } from '@mui/material/styles';
-//local files
 import HandshakePhoto from './../assets/other/handshake.jpg';
 import { PrivacyNotice } from '../components/worstWebsite/PrivacyNotice';
 import { Footer } from '../components/worstWebsite/Footer';

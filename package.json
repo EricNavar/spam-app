@@ -10,6 +10,7 @@
     "@types/react-dom": "^18.0.10",
     "inspirational-quotes": "^1.0.8",
     "lorem-picsum": "^1.0.0",
+    "node-pre-gyp": "^0.17.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-fullstory": "^1.4.0",
